@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/omega/catkin_ws/devel/setup.sh
